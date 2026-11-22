@@ -1,0 +1,11 @@
+# Virtual environment
+.venv/
+
+# Local configuration and secrets
+.env
+
+# Downloads folder
+downloads/
+
+# vector database folder
+vector_db/
